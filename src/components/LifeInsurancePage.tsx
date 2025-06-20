@@ -486,7 +486,7 @@ const LifeInsurancePage: React.FC = () => {
                                 </div>
                                 <button
                                     type="submit"
-                                    className="w-full bg-[#3593ca] hover-[#2563eb] hover:shadow-lg hover:scale-105 transition-all  text-white py-3 px-6 rounded-lg font-semibold  transition-colors"
+                                    className="w-full bg-[#3593ca] hover-[#2563eb] hover:shadow-lg hover:scale-105 text-white py-3 px-6 rounded-lg font-semibold transition-colors"
                                 >
                                     ส่งข้อความ
                                 </button>
