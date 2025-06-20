@@ -114,7 +114,7 @@ const LifeInsurancePage: React.FC = () => {
                         <nav className="hidden md:flex space-x-8">
                             <a href="#products" className="text-gray-700 hover:text-[#3593ca] transition-all duration-300 font-medium">ผลิตภัณฑ์</a>
                             <a href="#about" className="text-gray-700 hover:text-[#3593ca] transition-all duration-300 font-medium">เกี่ยวกับเรา</a>
-                            <a href="#question" className="text-gray-700 hover:text-[#3593ca] transition-all duration-300 font-medium">คำถามที่พบบ่อย</a>
+                            <a href="#questions" className="text-gray-700 hover:text-[#3593ca] transition-all duration-300 font-medium">คำถามที่พบบ่อย</a>
                             <a href="#contact" className="text-gray-700 hover:text-[#3593ca] transition-all duration-300 font-medium">ติดต่อเรา</a>
                         </nav>
 
@@ -353,7 +353,7 @@ const LifeInsurancePage: React.FC = () => {
             </section>
 
             {/* Enhanced FAQ Section */}
-            <section id="question" className="py-20 bg-gray-50">
+            <section id="questions" className="py-20 bg-gray-50">
                 <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="text-center mb-16">
                         <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6">
