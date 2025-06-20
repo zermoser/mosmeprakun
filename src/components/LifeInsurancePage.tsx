@@ -431,9 +431,7 @@ const LifeInsurancePage: React.FC = () => {
                                 <div>
                                     <h3 className="font-semibold text-gray-900 mb-2">ที่อยู่</h3>
                                     <p className="text-gray-600">
-                                        999 อาคารมอสเมอประกัน ชั้น 25<br />
-                                        ถนนสีลม แขวงสีลม เขตบางรัก<br />
-                                        กรุงเทพมหานคร 10500
+                                        123 อาคารมอสมีประกัน กรุงเทพฯ
                                     </p>
                                 </div>
                             </div>
@@ -488,7 +486,7 @@ const LifeInsurancePage: React.FC = () => {
                                 </div>
                                 <button
                                     type="submit"
-                                    className="w-full bg-red-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-red-700 transition-colors"
+                                    className="w-full bg-[#3593ca] hover-[#2563eb] hover:shadow-lg hover:scale-105 transition-all  text-white py-3 px-6 rounded-lg font-semibold  transition-colors"
                                 >
                                     ส่งข้อความ
                                 </button>

@@ -6,6 +6,6 @@ export default defineConfig({
   base: '/mosmeprakun/',
   server: {
     open: true,
-    port: 3006
+    port: 3030
   }
 });
