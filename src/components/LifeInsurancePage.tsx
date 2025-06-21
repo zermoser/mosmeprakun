@@ -195,11 +195,11 @@ const LifeInsurancePage: React.FC = () => {
 
                             <div className="grid grid-cols-3 gap-8 pt-8">
                                 <div className="text-center">
-                                    <div className="text-3xl font-bold bg-gradient-to-r from-[#3593ca] to-blue-600 bg-clip-text text-transparent">500K+</div>
+                                    <div className="text-3xl font-bold bg-gradient-to-r from-[#3593ca] to-blue-600 bg-clip-text text-transparent">100K+</div>
                                     <div className="text-sm text-gray-600 mt-1">ลูกค้าที่ไว้วางใจ</div>
                                 </div>
                                 <div className="text-center">
-                                    <div className="text-3xl font-bold bg-gradient-to-r from-[#3593ca] to-blue-600 bg-clip-text text-transparent">50+</div>
+                                    <div className="text-3xl font-bold bg-gradient-to-r from-[#3593ca] to-blue-600 bg-clip-text text-transparent">5+</div>
                                     <div className="text-sm text-gray-600 mt-1">ปีของประสบการณ์</div>
                                 </div>
                                 <div className="text-center">
