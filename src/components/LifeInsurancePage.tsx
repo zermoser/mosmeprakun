@@ -136,7 +136,7 @@ const LifeInsurancePage: React.FC = () => {
                         <div className="px-2 pt-2 pb-3 space-y-1">
                             <a href="#products" className="block px-3 py-2 text-gray-700 hover:text-[#3593ca] hover:bg-blue-50 rounded-lg transition-all">ผลิตภัณฑ์</a>
                             <a href="#about" className="block px-3 py-2 text-gray-700 hover:text-[#3593ca] hover:bg-blue-50 rounded-lg transition-all">เกี่ยวกับเรา</a>
-                            <a href="#calculator" className="block px-3 py-2 text-gray-700 hover:text-[#3593ca] hover:bg-blue-50 rounded-lg transition-all">คำนวณเบี้ยประกัน</a>
+                            <a href="#questions" className="block px-3 py-2 text-gray-700 hover:text-[#3593ca] hover:bg-blue-50 rounded-lg transition-all">คำถามที่พบบ่อย</a>
                             <a href="#contact" className="block px-3 py-2 text-gray-700 hover:text-[#3593ca] hover:bg-blue-50 rounded-lg transition-all">ติดต่อเรา</a>
                         </div>
                     </div>
